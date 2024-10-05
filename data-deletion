@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Deletion Request - JIMUNIM</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+        .container {
+            background-color: #ffffff;
+            max-width: 800px;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+        h1 {
+            color: #d32f2f;
+            text-align: center;
+        }
+        p {
+            color: #555555;
+            line-height: 1.6;
+        }
+        a {
+            color: #d32f2f;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 0.9em;
+            color: #888888;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Request Data Deletion</h1>
+        <p>We value your privacy. If you wish to request the deletion of specific data associated with your account (such as contacts, photos, or other personal information), please follow the instructions below:</p>
+        
+        <h2>How to Request Data Deletion</h2>
+        <p>To request the deletion of your data, please send an email to our support team:</p>
+        <p><strong>Email:</strong> <a href="mailto:support@jimunim.com">support@jimunim.com</a></p>
+        
+        <p>In your email, please include:</p>
+        <ul>
+            <li>Your registered account email address</li>
+            <li>A description of the specific data you want to be deleted (e.g., contacts, photos, etc.)</li>
+        </ul>
+
+        <h2>What Happens Next?</h2>
+        <p>Once we receive your request, we will process the data deletion within 30 days. You will receive a confirmation email once the requested data has been successfully deleted from our system.</p>
+
+        <footer>
+            <p>&copy; 2024 JIMUNIM. All Rights Reserved.</p>
+        </footer>
+    </div>
+</body>
+</html>
